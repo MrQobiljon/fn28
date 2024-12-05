@@ -15,3 +15,10 @@ class Employee:
 
 
 print("Salom Dunyo")
+
+
+class User:
+    def __init__(self, name, lastname, salary):
+        self.name = name
+        self.lastname = lastname
+        self.salary = salary
