@@ -12,3 +12,6 @@ class Employee:
         self.name = name
         self.lastname = lastname
         self.salary = salary
+
+
+print("Salom Dunyo")
